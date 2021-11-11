@@ -1,4 +1,8 @@
 /*
+  arduino mega 2560
+*/
+
+/*
   The Electronic modules we may use:
       bluetooth HC-05/HC-06
       GY-25
